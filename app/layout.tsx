@@ -6,8 +6,8 @@ import { cn } from "../lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jaume G.",
-  description: "Porfolio of Jaume Gelabert"
+  title: "Hassan Amin",
+  description: "Porfolio of Hassan Amin",
 };
 
 export default function RootLayout({

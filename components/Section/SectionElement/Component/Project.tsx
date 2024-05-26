@@ -1,11 +1,11 @@
 import SectionElement from "@/components/Section/SectionElement/SectionElement";
 
-export default function DragDrop() {
+export default function Project() {
   return (
     <SectionElement
-      title="Drag & Drop"
+      title="Project"
       href="/components/drag-drop"
-      description="Nice UI element with cool stuff."
+      description="Building custom software for companies"
     />
   );
 }

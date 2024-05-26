@@ -6,15 +6,15 @@ export default function SocialIcons() {
     <div className="flex flex-row justify-start items-center gap-3">
       <SingleSocialIcon
         icon={<Github className="h-5 w-5" />}
-        href="https://github.com/JaumeGelabert"
+        href="https://github.com/aqeox"
       />
       <SingleSocialIcon
         icon={<Linkedin className="h-5 w-5" />}
-        href="https://www.linkedin.com/in/jaumegelabert/"
+        href="https://www.linkedin.com/in/hassan-amin-b5693b170/"
       />
       <SingleSocialIcon
         icon={<Twitter className="h-5 w-5" />}
-        href="https://twitter.com/jaume_0to1"
+        href="https://x.com/youwdin"
       />
     </div>
   );

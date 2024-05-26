@@ -18,7 +18,7 @@ export default function Section({
   return (
     <div
       className={cn(
-        "flex flex-col justify-start items-start border rounded-xl p-8 bg-white shadow hover:shadow-lg transition-all",
+        "flex flex-col justify-start items-start rounded-xl",
         className
       )}
     >

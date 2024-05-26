@@ -7,8 +7,8 @@ export default function Landing() {
     <ContentWrapper>
       <div className="flex flex-col justify-start items-center mt-40 mb-20">
         <Header
-          name="Your Name Here"
-          description="Fullstack dev solving problems at scale. Building user-centric digital products @ Acme Inc. Former chess player. I enjoy running, sailing and spending time with my family."
+          name="Hassan Amin"
+          description="Passionate UI/UX Designer. I help businesses elevate their digital products and user experiences to drive customer engagement and satisfaction."
           socialIcons={<SocialIcons />}
         />
       </div>
